@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taller-tarea-4-316723",
+  "private_key_id": "eebcdcb7899e4af1af8a69dcbefbbc0815773313",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCh5kpZNCn6wMsj\n3GFPHi8QNl5RJbaJwetxMxml0nXwqXSl6DwePvExMsThKS8FqKxNePthN87IxRI4\nuf7A2xFgJ4C0QW97pZv/WEelB07ijEw4CesgPRww2l1V4BQSulswlj6n9j5OUN0W\neAf84RWAM1WTpLHTtMATG/g01TqDbEnavMxkWYEcVfdLrB2p2edctSwaHIAVtS/I\ntB6+H35o0K4aodha2XxP9UnZeUuhjuLQRzcCwNLBKee+KJe11BCCFLheIXcN4IQc\nj6zrRdN751lJrSzLPHckLBseeUdhTgLxvMa+XD/pnKcz4UknUyG6w3IVnnRQfyjy\nBsTSbVYxAgMBAAECggEAInxzidzatFcs7k6bS8caL1HldVObNmzgQhSoefICvWjb\nOBvn8mll5xzxYyTqp0HusfH7WhIRMiMIZpz37wy6/shrWfo2TRhRymp7mGOeIhPQ\niH9UXmGmB6H8D7bTj8mycv8OCakiTHxdG9Qln3AyrERDDlgeqQHviCKFFHv3Itcv\nHLYpndmgZyAl3FtHoiEYuK82WLxg47P2FMStO1j8sH/LflENdJkP1csK4gkWKZZ4\n699TjabV/8TstT0PEHCRAEWmW/83WPddB9dAtWMNZrjIc8VT8ABeOhDI61kkYBnc\n6DtKyjegYHrADKRZPGYa70lCucYowED6GRkSaI2fgQKBgQDgsUxuTSJoWYwZF6yw\ns9QYGKY1aGSl3LgCXW6mSsQheciXg3xsk7OrSoSYzL02O9gifJn/DPk5SvuXpgxo\nyt2qrNsR/tWPhjuAwR0KZI250t3Wjl8XAD0wNMMXWaOfp5H4gh0RqfU2hnVJU5S0\nmJHnmD2BPchQMEKZbUS8T+4whQKBgQC4dTBJxZZ8pzKrp27+r7zYVDJ75zcplqT5\nnmu5SzFCDzl0XpTY+CyhXPhhltufGqmmBhCx7V+qW7htP7AhLGZOo17KlAIM766V\n7hL5JMxLXFgDTu5KzWmGHtBjDR9OXAW90VNdiuVNT0qQ8MvP9Ztjsz51aJ4zRAA4\nxyg45H60vQKBgAf5gvLvPediNjy1wGVNHJv2U//VQq04VjePRVwVjzx47AukmQfp\nfhj4PhiGO7jvCs6+iWCp/zZvWNqbBBm8CX4DQIs09jNv2jDJqdQymW0c9M6mou1Y\nDtPlK39qqQoDkoS1aX60/4T95K/DjaWTPKpxls09ehyOee6kGCpu089ZAoGBAIST\ntiFP4tm1UrYNoblslk7mNWLYzM0XeXvwYXzMjprsVl9Nm65Wsb1JFT0PMMsqXsT1\nlwpLknbfda8QF4fAYcgjo/32Y4LowpMAiqKH0E5aEOhP0vXwree4Pg7zX4zyly3X\nRhP1wNnQI8gJSnQuE4GVU08P4qT2OzKT8lTx5iABAoGAXyDFoOp7jozLhbBSsv/h\ntzaYPagKXSTfU9sOJJvKHij+lkqvihn0uWvnnqRgMswA9VkvsnA0TpDUDj7DTEL3\n7GJp+UufLOupRSgen3lbykIWQ7u2CJW0BwFJMm3/lquBdPxg9zrl71KGOD91oGCo\nPPwGvOeD/eYjmrw4dqI66LU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "taller-tarea-4@taller-tarea-4-316723.iam.gserviceaccount.com",
+  "client_id": "102939227252829371250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taller-tarea-4%40taller-tarea-4-316723.iam.gserviceaccount.com"
+}
